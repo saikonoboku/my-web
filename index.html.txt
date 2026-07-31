@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>我的图片</title>
+<style>
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+</head>
+
+<body>
+
+<img src="image.jpg">
+
+</body>
+</html>
